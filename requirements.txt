@@ -1,0 +1,4 @@
+matplotlib
+torch
+numpy<2
+pandas
